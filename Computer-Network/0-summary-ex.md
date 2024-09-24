@@ -1,3 +1,23 @@
+进制转换
+
+1 bit/s = 1 bps
+
+1B = 8 bits
+
+- 1 bit/s = 1 bit per second
+- 1 Kbit/s = 1,000 bits/s (十进制) =
+- 1 kbit/s = 1,024 bits/s (二进制)
+- 1 Mbit/s = 1,000,000 bits/s (十进制) 10^6
+- 1 mbit/s = 1,048,576 bits/s (二进制)
+- 1 Gbit/s = 1,000,000,000 bits/s (十进制) 10^9
+- 1 gbit/s = 1,073,741,824 bits/s (二进制)
+
+
+
+
+
+
+
 # 概述习题
 
 ## 计算机网络
